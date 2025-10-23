@@ -70,7 +70,18 @@
 ||truck-parts.nl^
 ||victorious-muddy-basin.glitch.me^
 ||zeinabghasemi.ir^
+||acschoolcatering.com^
+||Roofcolor[.]com^
+||www.acschoolcatering.com^
+||www.roofcolor.com^
+||bsprofi.ru^
+||iplis.ru^
+||mcnn.ru^
+||iplogger.cn^
+||myupload.net^
+||news365.tech^
 
 !@@||puzzles-games-api.gp-prod.conde.digital^|
 !@@|affiliate.notion.so^|
 !@@|www.daraz.pk^|
+
