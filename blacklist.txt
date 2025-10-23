@@ -1,8 +1,8 @@
 !
 ! Title: AdGuard DNS filter
-! Description: 
+! Description: from ФСТЭК recomendations
 ! Version: 0.1
-! Homepage: https://github.com/mvorontsov/AdGuard/blob/main/blacklist.txt
+! Homepage: https://mvorontsov.github.io/blacklist.txt
 ! Last modified: 2025-10-23T06:10:59:043Z
 !
 ||nextcloud.soft-trust.com^
@@ -39,7 +39,7 @@
 ||tramways.xyz^
 ||45.87.246.5^
 
-!||198.23.198.110^
 !@@||puzzles-games-api.gp-prod.conde.digital^|
 !@@|affiliate.notion.so^|
 !@@|www.daraz.pk^|
+
