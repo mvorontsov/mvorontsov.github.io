@@ -80,8 +80,10 @@
 ||iplogger.cn^
 ||myupload.net^
 ||news365.tech^
+||tass.ru^
 
 !@@||puzzles-games-api.gp-prod.conde.digital^|
 !@@|affiliate.notion.so^|
 !@@|www.daraz.pk^|
+
 
