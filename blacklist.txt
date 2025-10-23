@@ -1,0 +1,45 @@
+!
+! Title: AdGuard DNS filter
+! Description: 
+! Version: 0.1
+! Homepage: https://github.com/mvorontsov/AdGuard/blob/main/blacklist.txt
+! Last modified: 2025-10-23T06:10:59:043Z
+!
+||nextcloud.soft-trust.com^
+||dveriter.ru^
+||109.107.182.11^
+||185.130.251.101^
+||my.powerfolder.com^
+||mia.nl.tab.digital^
+||cddcvesfhfp1.wris.monster^
+||deefveskiip2.wris.monster^
+||rhel.opsecurity1.art^
+||sec.opsecurity1.art^
+||89.23.113.204^
+||pkg.dpkg-source.info^
+||amd64.rpm-bin.link^
+||89.23.113.59^
+||176.124.192.230^
+||qxpngendvvp1.wris.monster^
+||cnhgenfhfp2.wris.monster^
+||ccdertsfrp1.wris.monster^
+||qdprtsorp2.wris.monster^
+||cckitsfrp1.n3x1lo.pro^
+||qdkitsorp2.n3x1lo.pro^
+||edfrg2r1aa.dylibm.homes^
+||edfrg2r2bb.dylibm.homes^
+||juiyhg2p1cc.dylibm.homes^
+||168.100.9.214^
+||m0g1ck.beauty^
+||176.124.192.152^
+||leo.jython27.xyz^
+||ocelot.jython27.xyz^
+||tiger.jython27.xyz^
+||sm4l1pp.online^
+||tramways.xyz^
+||45.87.246.5^
+
+!||198.23.198.110^
+!@@||puzzles-games-api.gp-prod.conde.digital^|
+!@@|affiliate.notion.so^|
+!@@|www.daraz.pk^|
