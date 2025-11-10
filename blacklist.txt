@@ -81,10 +81,13 @@
 ||myupload.net^
 ||news365.tech^
 ||tass.ru^$important
+||vk.ru^$important
+
 
 !@@||puzzles-games-api.gp-prod.conde.digital^|
 !@@|affiliate.notion.so^|
 !@@|www.daraz.pk^|
+
 
 
 
